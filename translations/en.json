@@ -1,0 +1,21 @@
+{
+    "temp": "Temperature",
+    "tmode": "Ther. Mode",
+    "fmode": "Fan Mode",
+    "t_heat": "Target Heat",
+    "t_cool": "Target Cool",
+    "tmode=0": "Off",
+    "tmode=1": "Heat",
+    "tmode=2": "Cool",
+    "tmode=3": "Auto",
+    "fmode=0": "Auto",
+    "fmode=1": "Circulate",
+    "fmode=2": "On",
+    "tmode-icon=0": "fa-toggle-off",
+    "tmode-icon=1": "fa-fire",
+    "tmode-icon=2": "fa-snowflake",
+    "tmode-icon=3": "fa-arrows-alt-v",
+    "fmode-icon=0": "fa-play",
+    "fmode-icon=1": "fa-refresh",
+    "fmode-icon=2": "fa-fan"
+}
